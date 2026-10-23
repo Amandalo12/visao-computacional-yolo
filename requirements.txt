@@ -1,5 +1,5 @@
- cv2
- numpy 
- streamlit 
- ultralytics
- PIL
+opencv-python
+numpy
+streamlit
+ultralytics
+Pillow
